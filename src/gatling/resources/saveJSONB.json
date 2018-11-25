@@ -1,0 +1,5 @@
+{
+  "firstName": "${randomStringMedium}",
+  "lastName": "${randomStringLong}",
+  "alias": "${randomStringSmall}"
+}

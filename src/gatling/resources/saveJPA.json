@@ -1,0 +1,11 @@
+{
+  "firstName": "${randomStringMedium}",
+  "lastName": "${randomStringLong}",
+  "aliases": [
+    {
+      "name": "${randomStringSmall}",
+      "shopId": "${randomInt}",
+      "archived": "false"
+    }
+  ]
+}
